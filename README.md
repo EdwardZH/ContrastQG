@@ -9,7 +9,8 @@
 
 ## Checkpoints
 
-* Download checkpoints from [Ali Cloud](https://thunlp.oss-cn-qingdao.aliyuncs.com/ContrastQG/checkpoints.zip)
+* Download QG checkpoints checkpoints from [Ali Cloud](https://thunlp.oss-cn-qingdao.aliyuncs.com/ContrastQG/checkpoints.zip)
+* Download ContrastQG checkpoints checkpoints from [Ali Cloud](https://thunlp.oss-cn-qingdao.aliyuncs.com/ContrastQG/qg-t5-base.zip)
 * Put checkpoints in the ``checkpoints`` folder
 
 
